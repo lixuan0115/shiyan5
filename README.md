@@ -95,3 +95,5 @@ try {
             }
 七、实验结果
 https://github.com/lixuan0115/shiyan5/blob/main/%E5%AE%9E%E9%AA%8C5%E7%BB%93%E6%9E%9C.jpg
+八、实验感想
+此次实验我进一步了解异常的使用方法，.通过这次实验我学会了如何读取文本文件和在文件中写入东西并存进一个新文件，了解到replace和replaceall的基本区别和使用replace方法将字符串替换为空的方法，对于用scanner函数实例化学生的方法更加的熟练了
