@@ -35,8 +35,7 @@
 设计程序完成上述的业务逻辑处理，并且把“古诗处理后的输出”结果存储到学生基本信息所在的文本文件A中。
 
 四、流程图
-
-流程图
+https://github.com/lixuan0115/shiyan5/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%AE%9E%E9%AA%8C5.png
 
 五、实验步骤
 
